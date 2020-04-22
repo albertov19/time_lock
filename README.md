@@ -16,7 +16,10 @@ Follow this tutorial to install the prequisites to run your own Substrate local 
 
 ## Clone the contract to your desired directory
 
-Run the clone command in your terminal to copy the contract files.
+Run the clone command in your terminal to copy the contract files: 
+```
+$git clone https://github.com/albertov19/time_lock
+```
 
 Open the terminal in the local directory where the files are, and run the following commands to build the contract and generate its metadata:
 ```
